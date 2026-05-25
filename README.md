@@ -181,7 +181,7 @@ This is an initial release focused on reproducibility of the core paper results.
 
 This work builds on the following open-source projects:
 
-- **[MemAgent](https://github.com/mem-agent/mem-agent)** (Apache 2.0) — Our RL training framework extends MemAgent's recurrent memory infrastructure. We gratefully acknowledge their foundational work on agent-based memory with VeRL/GRPO.
+- **[MemAgent]([https://github.com/mem-agent/mem-agent](https://github.com/BytedTsinghua-SIA/MemAgent))** (Apache 2.0) — Our RL training framework extends MemAgent's recurrent memory infrastructure. We gratefully acknowledge their foundational work on agent-based memory with VeRL/GRPO.
 - **[LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)** (Apache 2.0) — Used for SFT training of the 4B memory construction model.
 - **[VeRL](https://github.com/volcengine/verl)** (Apache 2.0) — Used as the underlying RL training engine.
 - **[Qwen3](https://huggingface.co/Qwen)** — Base model for f_theta (Qwen3-4B) and retrieval embeddings (Qwen3-Embedding-0.6B).
