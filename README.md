@@ -1,6 +1,5 @@
 # From Facts to Insights: A Persona-Driven Dual Memory Framework and Dataset for Role-Playing Agents
 
----
 
 ## Overview
 
