@@ -1,7 +1,4 @@
-# RoleMemo: Persona-Conditioned Reconstructive Memory for Role-Playing Agents
-
-> **Paper:** *RoleMemo* (EMNLP 2025, under review)  
-> **Authors:** [Ruofan Hu](https://github.com/ruofan-hu) et al.
+# From Facts to Insights: A Persona-Driven Dual Memory Framework and Dataset for Role-Playing Agents
 
 ---
 
